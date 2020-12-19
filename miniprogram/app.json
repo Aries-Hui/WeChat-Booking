@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/capital/capital",
+    "pages/check/check",
+    "pages/enter/enter",
+    "pages/message/message",
+    "pages/my/my",
+    "pages/index/index"
+  ],
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#333333",
+    "list": [{
+      "iconPath": "image/tabbar/capital.png",
+      "selectedIconPath": "image/tabbar/capital-active.png",
+      "pagePath": "pages/capital/capital",
+      "text": "资金"
+    }, {
+      "iconPath": "image/tabbar/check.png",
+      "selectedIconPath": "image/tabbar/check-active.png",
+      "pagePath": "pages/check/check",
+      "text": "账单"
+    }, {
+      "iconPath": "image/tabbar/enter.png",
+      "selectedIconPath": "image/tabbar/enter-active.png",
+      "pagePath": "pages/enter/enter",
+      "text": "录入"
+    }, {
+      "iconPath": "image/tabbar/message.png",
+      "selectedIconPath": "image/tabbar/message-active.png",
+      "pagePath": "pages/message/message",
+      "text": "消息"
+    }, {
+      "iconPath": "image/tabbar/my.png",
+      "selectedIconPath": "image/tabbar/my-active.png",
+      "pagePath": "pages/my/my",
+      "text": "我的"
+    }]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F8D02D",
+    "navigationBarTitleText": "金灰库",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
