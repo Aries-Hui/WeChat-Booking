@@ -1,3 +1,4 @@
 <view class="container">
-  <f2 class="f2-chart" onInit="{{onInitChart}}" />
+  <f2 class="f2-chart" onInit="{{onInitChart}}"/>
+  <button type="primary" plain="true" bindtap="bindButton">按钮</button>
 </view>

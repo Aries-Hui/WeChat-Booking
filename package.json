@@ -10,7 +10,8 @@
   "author": "dreanHui",
   "license": "ISC",
   "dependencies": {
-    "@antv/wx-f2": "^2.1.1"
+    "@antv/wx-f2": "^2.1.1",
+    "miniprogram-api-promise": "^1.0.4"
   },
   "devDependencies": {
     "miniprogram-api-typings": "^2.8.3-1",
